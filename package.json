@@ -1,7 +1,7 @@
 {
   "name": "molti-app",
   "version": "0.1.0",
-  "homepage": "https://stemolti.github.io/mKeeper-app",
+  "homepage": "https://github.com/stemolti/mKeeper-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
