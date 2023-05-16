@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
     return (<header>
-        <h1>Molti</h1>
+        <h1>mKeeper</h1>
     </header>);
 }
 
